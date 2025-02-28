@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+j3P/YeZUpg=",
+  "success": true,
+  "projectFilePath": "C:\\Progra1\\Laboratorio4\\Laboratorio4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SANDRA\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.1\\microsoft.netcore.app.runtime.win-x64.9.0.1.nupkg.sha512",
+    "C:\\Users\\SANDRA\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.1.nupkg.sha512",
+    "C:\\Users\\SANDRA\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.1\\microsoft.aspnetcore.app.runtime.win-x64.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
